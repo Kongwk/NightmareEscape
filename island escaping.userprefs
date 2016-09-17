@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\player\Scripts\SkinnedMeshCombiner.cs">
+    <Files>
+      <File FileName="Assets\player\Scripts\CharacterDemoController.cs" Line="12" Column="22" />
+      <File FileName="Assets\player\Scripts\CamTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\player\Scripts\Outfitter.cs" Line="1" Column="1" />
+      <File FileName="Assets\player\Scripts\RootMotionOff.cs" Line="1" Column="1" />
+      <File FileName="Assets\player\Scripts\SkinnedMeshCombiner.cs" Line="18" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
